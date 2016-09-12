@@ -1,0 +1,598 @@
+# Translation of DDW: Plugin Development - Cleaner Plugin Installer in German
+# This file is distributed under the same license as the DDW: Plugin Development - Cleaner Plugin Installer package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-12 18:00:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0\n"
+"Language: de\n"
+"Project-Id-Version: DDW: Plugin Development - Cleaner Plugin Installer\n"
+
+#: includes/cpi-functions-dashboard.php:212
+msgid "network wide"
+msgstr "netzwerkweit"
+
+#: includes/cpi-plugin-installer.php:72
+msgctxt "Tab name in toolbar"
+msgid "Recommended"
+msgstr "Empfohlen"
+
+#: includes/cpi-admin-extras.php:150 includes/cpi-admin-extras.php:282
+msgid "FAQ"
+msgstr "Häufige Fragen (FAQ)"
+
+#: includes/cpi-admin-extras.php:232
+msgctxt "Help tab headline"
+msgid "Start Search Tab"
+msgstr "Start-Suche Tab"
+
+#: includes/cpi-admin-extras.php:233
+msgid "Legend"
+msgstr "Legende"
+
+#: includes/cpi-plugin-installer.php:55
+msgctxt "Tab name in toolbar"
+msgid "Start: Search"
+msgstr "Start: Suche"
+
+#: includes/cpi-plugin-installer.php:58
+msgctxt "Tab name in toolbar"
+msgid "Topics"
+msgstr "Themen"
+
+#: includes/cpi-plugin-installer.php:63
+msgctxt "Tab name in toolbar"
+msgid "Collections"
+msgstr "Sammlungen"
+
+#: includes/cpi-plugin-installer.php:68
+msgctxt "Tab name in toolbar"
+msgid "Newest"
+msgstr "Neueste"
+
+#: includes/cpi-plugin-installer.php:73
+msgctxt "Tab name in toolbar"
+msgid "Popular"
+msgstr "Beliebte"
+
+#: includes/cpi-plugin-installer.php:74
+msgctxt "Tab name in toolbar"
+msgid "Favorites"
+msgstr "Favoriten"
+
+#: includes/cpi-plugin-installer.php:81
+msgctxt "Tab name in toolbar"
+msgid "Search Results"
+msgstr "Suchergebnisse"
+
+#: includes/cpi-plugin-installer.php:365
+msgctxt "Topic tags collection title"
+msgid "Content/ Editor"
+msgstr "Inhalte/ Editor"
+
+#: includes/cpi-plugin-installer.php:369
+msgctxt "Topic tags collection title"
+msgid "Post Types/ Custom Taxonomies/ Custom Fields"
+msgstr "Inhaltstypen/ Taxonomien/ Benutzerdefinierte Felder"
+
+#: includes/cpi-plugin-installer.php:373
+msgctxt "Topic tags collection title"
+msgid "Media/ Gallery/ Video"
+msgstr "Medien/ Mediathek/ Galerie/ Video"
+
+#: includes/cpi-plugin-installer.php:377
+msgctxt "Topic tags collection title"
+msgid "Tools, Helpers"
+msgstr "Werkzeuger, Helfer"
+
+#: includes/cpi-plugin-installer.php:381
+msgctxt "Topic tags collection title"
+msgid "Multisite/ Network"
+msgstr "Multisite-Modus/ Webseiten-Netzwerke"
+
+#: includes/cpi-plugin-installer.php:385
+msgctxt "Topic tags collection title"
+msgid "E-Commerce/ Shop Plugins/ Digital Products"
+msgstr "E-Commerce/ Shop-Plugins/ Produkte"
+
+#: includes/cpi-plugin-installer.php:389
+msgctxt "Topic tags collection title"
+msgid "Contact Forms/ Form Builders"
+msgstr "Kontaktformulare/ Formular-Builder"
+
+#: includes/cpi-plugin-installer.php:393
+msgctxt "Topic tags collection title"
+msgid "Community/ Forum"
+msgstr "Community/ Forum"
+
+#: includes/cpi-plugin-installer.php:397
+msgctxt "Topic tags collection title"
+msgid "Social/ Sharing"
+msgstr "Sozial/ Soziales Teilen"
+
+#: includes/cpi-plugin-installer.php:401
+msgctxt "Topic tags collection title"
+msgid "Membership/ Restrict Content"
+msgstr "Mitgliedschafts-Seiten/ Gesperrte Inhalte"
+
+#: includes/cpi-plugin-installer.php:405
+msgctxt "Topic tags collection title"
+msgid "Multilingual/ Translations"
+msgstr "Mehrsprachigkeit/ Übersetzungen"
+
+#: includes/cpi-plugin-installer.php:409
+msgctxt "Topic tags collection title"
+msgid "Security/ Backup"
+msgstr "Sicherheit/ Datensicherung"
+
+#: includes/cpi-plugin-installer.php:417
+msgctxt "Topic tags collection title"
+msgid "Developer"
+msgstr "Entwickler"
+
+#: includes/cpi-plugin-installer.php:421
+msgctxt "Topic tags collection title"
+msgid "Special Tags"
+msgstr "Besondere Schlagwörter (Tags)"
+
+#: includes/cpi-plugin-installer.php:512
+msgid "Would You Like Having Your Own Plugin Collections, plus Bulk Installing?"
+msgstr "Wollen Sie eigene Plugin-Sammlungen verwalten, plus Masseninstallation?"
+
+#: includes/cpi-plugin-installer.php:513
+msgid "&hellip; so are we!"
+msgstr "&hellip; ja, wir ebenso!"
+
+#: includes/cpi-plugin-installer.php:523
+msgid "Follow these 2 steps to use it"
+msgstr "Befolgen Sie diese 2 Schritte, um es zu verwenden"
+
+#: includes/cpi-plugin-installer.php:527
+msgid "Create a 1 or more collections (private and/ or public)"
+msgstr "1 oder mehrere Sammlungen erstellen (private und/ oder öffentliche)"
+
+#: includes/cpi-plugin-installer.php:558
+msgid "Manage Your favorite plugins more easily and efficiently!"
+msgstr "Verwalten Sie Ihre Plugin-Favoriten einfacher und effizienter!"
+
+#: includes/cpi-plugin-installer.php:563
+msgid "Install plugins from Your collections"
+msgstr "Plugins aus Ihren Sammlungen installieren"
+
+#: includes/cpi-plugin-installer.php:563
+msgid "plus, connect/ remove collections"
+msgstr "plus: verbinden/ entfernen von Sammlungen"
+
+#: includes/cpi-plugin-installer.php:564
+msgid "Manage Your private & public plugin collections"
+msgstr "Ihre privaten & öffentlichen Plugin-Sammlungen verwalten"
+
+#: includes/cpi-plugin-installer.php:602
+msgid "Manually curated tag lists for a lot of plugin types, use cases and popular plugin solutions. Listing here maintained by David Decker (plugin author of %s). The tags itself are from plugin's readme header."
+msgstr "Manuell gepflegte Liste für viele Arten von Plugins, Einsatzzwecke und beliebte Plugin-Lösungen. Die Liste hier wird gepflegt von David Decker (Plugin-Autor von %s). Die Schlagwörter (Tags) selbst stammen aus den readme.txt Informationen der Plugins."
+
+#: includes/cpi-plugin-installer.php:678
+msgid "David Decker, author of %s plugin"
+msgstr "David Decker, Herausgeber des Plugins %s"
+
+#: includes/cpi-admin-extras.php:158 includes/cpi-admin-extras.php:290
+msgid "Donate"
+msgstr "Spenden"
+
+#: includes/cpi-admin-extras.php:226
+msgid "Plugin"
+msgstr "Plugin"
+
+#: includes/cpi-admin-extras.php:250
+msgctxt "Help tab headline"
+msgid "Topics Tab"
+msgstr "Themen-Tab"
+
+#: includes/cpi-admin-extras.php:251 includes/cpi-plugin-installer.php:543
+#: includes/cpi-plugin-installer.php:577
+msgid "Please Note"
+msgstr "Hinweis"
+
+#: includes/cpi-admin-extras.php:258
+msgctxt "Help tab headline"
+msgid "Collections Tab"
+msgstr "Sammlungen-Tab"
+
+#: includes/cpi-admin-extras.php:263
+msgid "Disclaimer"
+msgstr "Bitte beachten"
+
+#: includes/cpi-admin-extras.php:278
+msgid "Important plugin links:"
+msgstr "Wichtige Plugin-Links:"
+
+#: includes/cpi-admin-extras.php:280
+msgid "Plugin website"
+msgstr "Plugin-Webseite"
+
+#: includes/cpi-functions.php:250 includes/cpi-plugin-installer.php:204
+msgctxt "Search filter"
+msgid "Keyword"
+msgstr "Schlüsselwort"
+
+#: includes/cpi-functions.php:251
+msgid "Any search term, will be searched within plugin title, description, plus readme info"
+msgstr "Beliebiger Suchbegriff, danach wird gesucht in: Plugin-Titel, -Beschreibung sowie den Informationen der readme.txt"
+
+#: includes/cpi-functions.php:254 includes/cpi-plugin-installer.php:205
+msgctxt "Plugin Installer, search filter"
+msgid "Tag"
+msgstr "Schlagwort (Tag)"
+
+#: includes/cpi-functions.php:255
+msgid "Plugin tag, will be searched in readme tag list (set by plugin author)"
+msgstr "Plugin-Schlagwort, danach wird gesucht in der Schlagwörter-Liste der readme.txt (festgelegt vom Plugin-Autor)"
+
+#: includes/cpi-functions.php:258 includes/cpi-plugin-installer.php:206
+msgctxt "Search filter"
+msgid "Author"
+msgstr "Autor"
+
+#: includes/cpi-functions.php:262
+msgid "Plugin author (developer), will be searched in readme/ plugin header info"
+msgstr "Plugin-Autor/ -Herausgeber (Entwickler), danach wird gesucht in den Informationen der readme.txt sowie Plugin-Kopfzeile"
+
+#: includes/cpi-functions.php:328
+msgid "Install %s"
+msgstr "%s installieren"
+
+#: includes/cpi-plugin-installer.php:152
+msgid "Search for Plugins"
+msgstr "Nach Plugins suchen"
+
+#: includes/cpi-plugin-installer.php:211
+msgctxt "Screen reader text"
+msgid "Search Plugins"
+msgstr "Plugins suchen"
+
+#: includes/cpi-plugin-installer.php:212
+msgctxt "Placeholder label"
+msgid "Your plugin search term &hellip;"
+msgstr "Plugin-Suchbegriff &hellip;"
+
+#: includes/cpi-plugin-installer.php:218
+msgctxt "Submit button label"
+msgid "Search Plugins"
+msgstr "Plugins suchen"
+
+#: includes/cpi-plugin-installer.php:429
+msgid "Curated List of Tags for Lots of Plugin Topics, Use Cases etc."
+msgstr "Gepflegte Liste von Schlagwörtern für viele Plugin-Themen, Einsatzzwecke etc."
+
+#: includes/cpi-admin-extras.php:152 includes/cpi-admin-extras.php:284
+msgid "Support"
+msgstr "Support"
+
+#: includes/cpi-admin-extras.php:154 includes/cpi-admin-extras.php:286
+msgid "Code Snippets for Customization"
+msgstr "Codeschnipsel für Anpassungen"
+
+#: includes/cpi-admin-extras.php:154 includes/cpi-admin-extras.php:286
+msgid "Code Snippets"
+msgstr "Codeschnipsel"
+
+#: includes/cpi-admin-extras.php:156 includes/cpi-admin-extras.php:288
+msgid "Translations"
+msgstr "Übersetzungen"
+
+#: includes/cpi-admin-extras.php:61 includes/cpi-plugin-uploader.php:149
+msgid "WPCore Plugin Manager"
+msgstr "WPCore Plugin Manager"
+
+#: includes/cpi-admin-extras.php:102
+msgctxt "Title attribute"
+msgid "Search and install plugins from WordPress.org"
+msgstr "Plugins von WordPress.org suchen und installieren &hellip;"
+
+#: includes/cpi-admin-extras.php:103
+msgctxt "Plugins page label: action link"
+msgid "Search Plugins"
+msgstr "Plugins suchen"
+
+#: includes/cpi-admin-extras.php:110
+msgctxt "Title attribute"
+msgid "Upload plugin from ZIP file"
+msgstr "Plugin von ZIP-Datei hochladen &hellip;"
+
+#: includes/cpi-admin-extras.php:111
+msgctxt "Plugins page label: action link"
+msgid "Uploader"
+msgstr "Hochlader"
+
+#. Plugin Name of the plugin/theme
+#: includes/cpi-admin-extras.php:197 includes/cpi-admin-extras.php:226
+#: includes/cpi-plugin-installer.php:603 includes/cpi-plugin-installer.php:679
+msgid "Cleaner Plugin Installer"
+msgstr "Cleaner Plugin Installer"
+
+#: includes/cpi-admin-extras.php:260
+msgid "%s is an external third-party service."
+msgstr "%s ist ein externer Drittanbieter-Service."
+
+#: includes/cpi-admin-extras.php:271
+msgctxt "Help tab headline"
+msgid "Uploader page"
+msgstr "ZIP-Hochlader-Seite"
+
+#: includes/cpi-functions-de.php:51
+msgctxt "Plugin tag name"
+msgid "Austria"
+msgstr "Austria (Österreich)"
+
+#: includes/cpi-functions-de.php:76
+msgctxt "Topic tags collection title"
+msgid "German Tags (de_DE)"
+msgstr "German - deutsche Schlagwörter (de_DE)"
+
+#: includes/cpi-functions-screen-options.php:37
+msgctxt "Plugin Cards/ Plugins per page"
+msgid "%s per page"
+msgstr "%s pro Seite"
+
+#: includes/cpi-functions-screen-options.php:38
+msgid "Plugin Cards"
+msgstr "Plugin-Karten"
+
+#: includes/cpi-functions-screen-options.php:38
+msgid "Plugins"
+msgstr "Plugins"
+
+#: includes/cpi-functions-tab-topics.php:85
+msgctxt "Title attribute"
+msgid "A lot of plugins"
+msgstr "Viele Plugins &hellip;"
+
+#: includes/cpi-functions-tab-topics.php:383
+msgctxt "Plugin tag name"
+msgid "Meetup"
+msgstr "Meetup, WP Meetups"
+
+#: includes/cpi-functions-tab-topics.php:1013
+msgctxt "Plugin tag name"
+msgid "Genesis"
+msgstr "Genesis (Framework)"
+
+#: includes/cpi-functions.php:364 includes/cpi-functions.php:396
+msgid "Your are here"
+msgstr "Sie sind hier"
+
+#: includes/cpi-functions.php:365
+msgid "Network Plugin Installer (Multisite)"
+msgstr "Netzwerk-Plugininstaller (Multisite)"
+
+#: includes/cpi-plugin-installer.php:77
+msgctxt "Tab name in toolbar"
+msgid "Beta Testing"
+msgstr "Betatest"
+
+#: includes/cpi-plugin-installer.php:85
+msgctxt "Upload button label"
+msgid "Upload Plugin"
+msgstr "Plugin hochladen"
+
+#. translators: 1 = Open Source, 2 = GPL-2.0+
+#: includes/cpi-plugin-installer.php:159
+msgid "All are %s and licensed under %s or compatible."
+msgstr "Alle Plugins sind %s und stehen unter %s Lizenz, oder einer Kompatiblen."
+
+#: includes/cpi-plugin-installer.php:160
+msgid "Open Source"
+msgstr "Open Source"
+
+#: includes/cpi-plugin-installer.php:413
+msgctxt "Topic tags collection title"
+msgid "Themes"
+msgstr "Themes"
+
+#: includes/cpi-plugin-uploader.php:76
+msgctxt "Submit button label"
+msgid "Upload &amp; Install Now"
+msgstr "Hochladen &amp; installieren"
+
+#: includes/cpi-plugin-uploader.php:81
+msgctxt "Description before file input field"
+msgid "If you have a plugin in a .zip format, you may install it by uploading it here."
+msgstr "Wenn Sie ein Plugin im <em>*.zip</em> Format vorliegen haben, können Sie es hier hochladen."
+
+#: includes/cpi-plugin-uploader.php:85
+msgctxt "File field label"
+msgid "Plugin zip file"
+msgstr "Plugin ZIP-Datei"
+
+#: includes/cpi-plugin-uploader.php:145
+msgid "Currently, the above Uploader only accepts one (1 and only 1) plugin at a time."
+msgstr "Derzeit akzeptiert der Hochlader nur jeweils 1 Plugin auf einmal."
+
+#: includes/cpi-plugin-uploader.php:148
+msgid "For bulk installing more than one plugin, use %s or search for %s."
+msgstr "Für eine Masseninstallation mehrerer Plugins auf einmal, verwenden Sie bitte %s oder suchen Sie nach %s."
+
+#: includes/cpi-plugin-uploader.php:150
+msgid "Start the search in plugin repository &hellip;"
+msgstr "Die Suche im Plugin-Verzeichnis starten &hellip;"
+
+#: includes/cpi-plugin-uploader.php:154
+msgid "For changing this behavior in %1$s you can always %2$s in the official development base %3$s (a.k.a. %4$s)."
+msgstr "Damit sich dieses Verhalten von %1$s evtl. in Zukunft ändert, können Sie gern in der offiziellen Entwicklerbasis %3$s (a.k.a. %4$s) %2$s."
+
+#: includes/cpi-plugin-uploader.php:155
+msgid "WordPress Core"
+msgstr "WordPress Core"
+
+#: includes/cpi-plugin-uploader.php:156
+msgid "create a ticket"
+msgstr "ein Ticket erstellen"
+
+#: includes/cpi-plugin-uploader.php:157
+msgid "Make WordPress Core"
+msgstr "Make WordPress Core"
+
+#: includes/cpi-plugin-uploader.php:158
+msgid "Trac"
+msgstr "Trac"
+
+#. Plugin URI of the plugin/theme
+msgid "http://genesisthemes.de/en/wp-plugins/cleaner-plugin-installer/"
+msgstr "http://genesisthemes.de/plugins/cleaner-plugin-installer/"
+
+#. Description of the plugin/theme
+msgid "Cleaner Plugin Installer experience, replacing the \"Featured\" tab content with bigger search. Additionally added \"Topics\" tab with curated topic tag list."
+msgstr "Vereinfachte und aufgeräumtere Benutzeroberfläche für die Startseite des Plugin-Installers. Der Inhalt des \"Empfohlen\"-Tabs wurde ersetzt mit einem großen Suchfeld. Zusätzlich gibt es nun einen \"Themen\"-Tab mit einer manuell gepflegten und thematisch sortierten Liste von Plugin-Tags (Schlagworten)."
+
+#. Author of the plugin/theme
+msgid "David Decker - DECKERWEB"
+msgstr "David Decker - DECKERWEB.de"
+
+#. Author URI of the plugin/theme
+msgid "http://deckerweb.de/"
+msgstr "http://deckerweb.de/"
+
+#: includes/cpi-admin-extras.php:70
+msgid "WP Favs Bulk Plugin Installation"
+msgstr "WP Favs Massen-Plugin-Installation"
+
+#: includes/cpi-functions-dashboard.php:58
+msgid "Find plugins"
+msgstr "Plugins finden:"
+
+#: includes/cpi-functions-dashboard.php:59
+msgid "Plugin keyword"
+msgstr "Suchbegriff"
+
+#: includes/cpi-functions-dashboard.php:62
+msgctxt "Submit button label"
+msgid "Plugin Search"
+msgstr "Plugins suchen"
+
+#: includes/cpi-functions-dashboard.php:93
+#: includes/cpi-functions-dashboard.php:109
+msgid "%s active"
+msgid_plural "%s active"
+msgstr[0] "%s aktiv"
+msgstr[1] "%s aktiv"
+
+#: includes/cpi-functions-dashboard.php:119
+msgid "%s installed"
+msgid_plural "%s installed"
+msgstr[0] "%s installiert"
+msgstr[1] "%s installiert"
+
+#: includes/cpi-functions-dashboard.php:159
+msgid "Site"
+msgstr "Webseite"
+
+#: includes/cpi-functions-dashboard.php:164
+msgid "Plugins:"
+msgstr "Plugins:"
+
+#: includes/cpi-functions-dashboard.php:208
+msgid "Network Plugins:"
+msgstr "Netzwerk-Plugins:"
+
+#: includes/cpi-functions-dashboard.php:216
+msgid "overall"
+msgstr "insgesamt"
+
+#: includes/cpi-functions-screen-options.php:193
+msgid "Topics Search Type Selector"
+msgstr "Themen Suchtyp-Umschalter"
+
+#: includes/cpi-functions-screen-options.php:203
+msgid "Set Search Type to %1$s (instead of %2$s)"
+msgstr "Suchtyp auf %1$s festlegen (statt %2$s)"
+
+#: includes/cpi-functions-screen-options.php:204
+#: includes/cpi-plugin-installer.php:636
+msgid "keyword (term)"
+msgstr "Schlüsselwort (Term)"
+
+#: includes/cpi-functions-screen-options.php:205
+#: includes/cpi-plugin-installer.php:635
+msgid "tag"
+msgstr "Schlagwort"
+
+#: includes/cpi-functions-screen-options.php:211
+msgctxt "Screen Options button label"
+msgid "Refresh Topics"
+msgstr "Themen aktualisieren"
+
+#: includes/cpi-functions.php:199
+msgctxt "Search placeholder text"
+msgid "Search Plugins"
+msgstr "Plugin-Suchbegriff &hellip;"
+
+#: includes/cpi-functions.php:201
+msgctxt "Search submit button text"
+msgid "Go"
+msgstr "Los"
+
+#: includes/cpi-functions.php:260
+msgid "Must be a %s username"
+msgstr "Muss ein %s Benutzername sein"
+
+#: includes/cpi-functions.php:261 includes/cpi-plugin-installer.php:156
+msgid "WordPress.org"
+msgstr "WordPress.org"
+
+#: includes/cpi-functions.php:397
+msgid "Site Plugin Listing"
+msgstr "Webseite Pluginliste"
+
+#: includes/cpi-functions.php:399
+msgctxt "Title attribute"
+msgid "Go to Network plugins"
+msgstr "Zur Netzwerk-Pluginseite gehen &hellip;"
+
+#: includes/cpi-functions.php:400
+msgid "Go to Network"
+msgstr "Zum Netzwerk"
+
+#: includes/cpi-functions.php:426
+msgctxt "Plugin card: plugin version"
+msgid "Version:"
+msgstr "Version:"
+
+#. translators: WordPress.org repo
+#: includes/cpi-plugin-installer.php:155
+msgid "Find plugins on the official %s plugin repository."
+msgstr "Finden Sie Plugins im offiziellen WordPress.org Pluginverzeichnis."
+
+#: includes/cpi-plugin-installer.php:505
+msgid "Install + activate the %s"
+msgstr "%s installieren + aktivieren"
+
+#: includes/cpi-plugin-installer.php:519
+msgid "Free and GPL-licensed third-party plugin %s just manages to do this."
+msgstr "Das kostenlose und GPL-lizenzierte Drittanbieter-Plugin %s erledigt genau diese Wünsche bzw. Anforderungen."
+
+#: includes/cpi-plugin-installer.php:525
+msgid "Create Collections at %s"
+msgstr "Sammlungen bei %s erstellen"
+
+#: includes/cpi-plugin-installer.php:555
+msgid "%s Plugin Collections, plus Bulk Installing"
+msgstr "%s Plugin-Sammlungen, plus Masseninstallation"
+
+#: includes/cpi-plugin-installer.php:565
+msgid "via %s"
+msgstr "via %s"
+
+#: includes/cpi-plugin-installer.php:633
+msgid "Via %1$s: Optionally switch the search type from %2$s to %3$s."
+msgstr "Via %1$s: Optional den Suchtyp von %2$s auf %3$s festlegen."
+
+#: includes/cpi-plugin-installer.php:634
+msgid "Screen Options"
+msgstr "Optionen einblenden"
+
+#: includes/cpi-plugin-installer.php:674
+msgid "I am NOT affiliated with %1$s in any way, other than that, being a normal user of their service & plugin. %1$s is a community effort aiming to make some things a bit easier for a lot of administrators and webmasters."
+msgstr "Ich stehe in KEINER WEISE mit %1$s in Verbindung, außer, dass ich selbst ein regulärer Anwender des Plugins und Dienstes bin. %1$s ist ein Beitrag aus der WordPress Community, um einige Dinge für viele Administratoren und Webmaster deutlich zu vereinfachen."
