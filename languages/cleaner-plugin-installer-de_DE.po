@@ -1,15 +1,19 @@
-# Translation of DDW: Plugin Development - Cleaner Plugin Installer in German
-# This file is distributed under the same license as the DDW: Plugin Development - Cleaner Plugin Installer package.
+# Translation of Cleaner Plugin Installer in German
+# This file is distributed under the same license as the Cleaner Plugin Installer package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-09-12 18:00:27+0000\n"
+"PO-Revision-Date: 2016-09-12 18:58:35+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: GlotPress/2.1.0\n"
 "Language: de\n"
-"Project-Id-Version: DDW: Plugin Development - Cleaner Plugin Installer\n"
+"Project-Id-Version: Cleaner Plugin Installer\n"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/deckerweb/cleaner-plugin-installer"
+msgstr "https://github.com/deckerweb/cleaner-plugin-installer"
 
 #: includes/cpi-functions-dashboard.php:212
 msgid "network wide"
@@ -438,10 +442,6 @@ msgstr "Make WordPress Core"
 #: includes/cpi-plugin-uploader.php:158
 msgid "Trac"
 msgstr "Trac"
-
-#. Plugin URI of the plugin/theme
-msgid "http://genesisthemes.de/en/wp-plugins/cleaner-plugin-installer/"
-msgstr "http://genesisthemes.de/plugins/cleaner-plugin-installer/"
 
 #. Description of the plugin/theme
 msgid "Cleaner Plugin Installer experience, replacing the \"Featured\" tab content with bigger search. Additionally added \"Topics\" tab with curated topic tag list."

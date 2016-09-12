@@ -1,9 +1,9 @@
 {
-  "name": "deckerweb/gp-project-export-name",
-  "description": "WordPress plugin that tweaks the export file name for translation file export for the GlotPress plugin.",
-  "keywords": ["glotpress", "export", "projects", "file name"],
+  "name": "deckerweb/cleaner-plugin-installer",
+  "description": "WordPress plugin that makes the plugin installer page a bit more cleaner and more useful.",
+  "keywords": ["wordpress", "plugins", "installer", "cleaner", "plugin"],
   "type": "wordpress-plugin",
-  "homepage": "https://github.com/deckerweb/gp-project-export-name",
+  "homepage": "https://github.com/deckerweb/cleaner-plugin-installer",
   "license": "GPL-2.0+",
   "authors": [
     {
@@ -13,8 +13,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/deckerweb/gp-project-export-name/issues",
-    "source": "https://github.com/deckerweb/gp-project-export-name"
+    "issues": "https://github.com/deckerweb/cleaner-plugin-installer/issues",
+    "source": "https://github.com/deckerweb/cleaner-plugin-installer"
   },
   "require": {
     "composer/installers": "^1.0",
